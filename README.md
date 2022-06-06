@@ -12,4 +12,4 @@ http://csilvanp.github.io/netflix-layout/
 ![Tablet Screenshot](img/telareadme2.png)
 
 ## Mobile view (max-width: 500px)
-![Mobile Screenshot](img/)
+![Mobile Screenshot](img/telareadme3.png)
