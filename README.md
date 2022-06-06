@@ -6,7 +6,7 @@ http://csilvanp.github.io/netflix-layout/
 ![Screenshot Desktop](img/telareadme.png)
 
 ## Owl Carousel 2 (responsive)
-![Carousel Screenshot](img/)
+![Carousel Screenshot](img/owl1.png)
 
 ## Tablet view (max-width: 768px)
 ![Tablet Screenshot](img/)
