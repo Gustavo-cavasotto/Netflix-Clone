@@ -1,0 +1,32 @@
+@media screen and (max-width: 768px) {
+    .left-menu .menu-mobile{
+        display: block;
+    }
+
+    .left-menu .nav-list{
+        display: none;
+    }
+
+    header .right-menu {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 25px;
+    }
+
+    .menu-mobile{
+        position: absolute;
+        left: 20px;  
+    }
+
+    .content-wrapper img {
+        width: 20rem;
+    }
+
+    .content-wrapper .line {
+        display: flex;
+        flex-direction: column;
+    }
+
+}
+    
