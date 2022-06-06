@@ -1,6 +1,6 @@
 # Netflix Layout
 Netflix Layout clone, using Owl Carousel 2. Made with HTML, CSS3 and Javascript.
-http://csilvanp.github.io/netflix-layout/
+https://gustavo-cavasotto.github.io/Netflix-Clone/
 
 ## Desktop view (min-width: 768px)
 ![Screenshot Desktop](img/telareadme.png)
