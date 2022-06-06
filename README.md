@@ -9,7 +9,7 @@ http://csilvanp.github.io/netflix-layout/
 ![Carousel Screenshot](img/owl1.png)
 
 ## Tablet view (max-width: 768px)
-![Tablet Screenshot](img/)
+![Tablet Screenshot](img/telareadme2.png)
 
 ## Mobile view (max-width: 500px)
 ![Mobile Screenshot](img/)
